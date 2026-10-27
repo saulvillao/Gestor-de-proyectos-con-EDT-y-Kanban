@@ -1,0 +1,6 @@
+reactpy[fastapi]==1.1.0
+fastapi>=0.115,<0.120
+starlette>=0.40,<0.50
+uvicorn[standard]
+pytest
+httpx
